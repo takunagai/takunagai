@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there ! 🐸
 
 - 🔭 I’m currently studying on createing a website using Next.js.
 - 🌱 I’m currently learning React, Next.js, Storybook, jest, CSS, WordPress and more.
