@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently studying on createing a website using Next.js.
 - 🌱 I’m currently learning React, Next.js, Storybook, jest, CSS, WordPress and more.
-- 📒 [Achievements - Websites(temporary)](https://nextjs-website-lemon.vercel.app/works)
+- 📒 [Achievements - Websites(temporary)](https://nagai-shouten.com)
 - 🔗 [CodePen](https://codepen.io/oreo3), [JSFiddle](https://jsfiddle.net/user/takna/fiddles/), [Gist](https://gist.github.com/takunagai), [WordPress](https://profiles.wordpress.org/takna/), [Qiita](https://qiita.com/oreo3)
 - 😄 Pronouns: ながたく(Nagataku), Takuna
-- 📫 How to reach me: [Twitter](https://twitter.com/nagai_shouten)
-
+- 📫 How to reach me: [X (AI)](https://x.com/nagataku_ai), [X (Web)](https://x.com/nagai_shouten)
