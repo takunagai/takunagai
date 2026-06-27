@@ -7,4 +7,4 @@
 - 🌱 Stack: TypeScript · React · Astro · Next.js · Hono · Cloudflare Workers · WordPress
 - ✍️ Writing on [Zenn](https://zenn.dev/takna) and [note](https://note.com/naga_taku)
 - 🏪 作成中: [ナガイ商店.com](#) — Web × AI × Creative
-- 📫 [X](https://x.com/nagataku_ai)
+- 📫 [X (@nagataku_ai)](https://x.com/nagataku_ai)
